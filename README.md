@@ -14,8 +14,3 @@ Deploy as a Cloudflare Worker. Example request:
 ```
 GET /?chainId=1&address=0x6B175474E89094C44Da98b954EedeAC495271d0F
 ```
-
-## TODO
-- Implement icon fetching logic
-- Add error handling
-- Add tests

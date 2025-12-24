@@ -1,4 +1,3 @@
 name = "web3-icons-api"
-type = "javascript"
 main = "src/index.ts"
-compatibility_date = "2023-12-01"
+compatibility_date = "2025-01-01"
